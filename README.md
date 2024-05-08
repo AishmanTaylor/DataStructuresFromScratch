@@ -32,4 +32,12 @@ A collection of implementations of fundamental data structures coded from scratc
 | Quadtree                           |   ❌    |  ❌   |    ❌    |  ❌   |  ❌  |
 | Octree                             |   ❌    |  ❌   |    ❌    |  ❌   |  ❌  |
 
+## Emoji Legend
+
+| Emoji | Meaning             |
+|-------|---------------------|
+|  ❌   | Not Started         |
+|  🛠️   | In Progress         |
+|  ✅   | Completed           |
+
 Feel free to contribute by implementing any of the data structures listed above in your preferred language! Contributions are highly appreciated.
